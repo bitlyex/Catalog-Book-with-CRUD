@@ -1,16 +1,5 @@
 # README
-To run this application you just have to run this:
-
-```
-rake db:create 
-rake db:migrate
-rails s -b 0.0.0.0
-```
-
-Voila! then you can access it on http://localhost:3000
-
-
-# Steps executed when building this application
+Steps executed when building application in Ruby on Rails
 
 ```
 gem install rails
