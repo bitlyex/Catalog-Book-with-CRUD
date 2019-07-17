@@ -1,0 +1,16 @@
+- Create the website store_catalog;
+  *Store
+  *Accounts
+  *Payments
+- Tech stack;
+  *Ruby on Rails
+  *Bootstrap
+  *jQuery
+  *MySQL
+- GEM library;
+  *Auth logic
+  *bcrypt
+
+-Create the website forum with action cable;
+  *coming soon!
+ 
